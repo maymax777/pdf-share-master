@@ -1,0 +1,3 @@
+rootProject.name = 'pdfsharemaster'
+
+include ':app'
